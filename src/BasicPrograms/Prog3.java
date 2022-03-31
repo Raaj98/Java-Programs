@@ -1,4 +1,5 @@
 package BasicPrograms;
+//Write a Java program that takes two numbers and display the product of two numbers
 import java.util.*;
 public class Prog3 {
     public static void main(String[] args) {

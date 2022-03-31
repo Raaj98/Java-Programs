@@ -1,5 +1,5 @@
 package BasicPrograms;
-
+//Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
 public class Prog4 {
     public static void main(String[] args) {
         int a = 50 ,b = 4;

@@ -1,4 +1,5 @@
 package BasicPrograms;
+//Write a Java program that takes five numbers as input to calculate and print the average of the numbers
 import java.util.*;
 public class Prog5 {
     public static void main(String[] args) {
